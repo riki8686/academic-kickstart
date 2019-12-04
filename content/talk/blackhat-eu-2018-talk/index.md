@@ -54,7 +54,7 @@ url_slides: http://i.blackhat.com/eu-18/Wed-Dec-5/eu-18-Spolaor-No-Free-Charge-T
 
 url_code:
 url_pdf:
-url_video:
+url_video: https://youtu.be/aX56u7ErSRk
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
